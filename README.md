@@ -1,3 +1,9 @@
+
+# ![alt text](https://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=breathecode,32)  The Excuse Generator
++ My Excuse Generator Mr Costanza! 
+![](https://github.com/JacquesCoeur/excuse-generator/blob/main/excusegenerator.gif)
+
+
 # ![alt text](https://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=breathecode,32)  The Excuse Generator
 
 Disneyland for procrastinators and lazy people. 
