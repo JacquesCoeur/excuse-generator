@@ -3,7 +3,7 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Hello Rigo with Vanilla.js</title>
+    <title>Excuse Generator.js</title>
     <link
       rel="stylesheet"
       href="https://use.fontawesome.com/releases/v5.2.0/css/all.css"
@@ -13,10 +13,16 @@
     <link rel="shortcut icon" href="./4geeks.ico" />
   </head>
   <body>
-    <div class="container-fluid text-center">
-      <h1 class="mt-5">Hello Rigo!</h1>
-      <img src="./rigo-baby.jpg" />
-      <p id="excuse" class="alert alert-warning mt-4">My dog eat my homework</p>
+    <div id="refresh" class="container-fluid text-center">
+      <h1 class="mt-5 w-50">
+        Excuse Generator
+      </h1>
+      <p
+        id="excuse"
+        class="alert alert-warning mt-4 w-50 border border-primary "
+      ></p>
+      <button onclick="window.location.reload();">Generate Excuse</button>
+      <img src="https://c.tenor.com/xtdVyEC_cdgAAAAC/the-goon-excuses.gif" />
       <div class="fixed-bottom p-4">
         Made with ❤️ by
         <a href="https://www.4geeksacademy.com">4Geeks Academy</a>
